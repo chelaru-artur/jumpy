@@ -1,0 +1,12 @@
+{
+  "name": "Прыгунчик · Jumpy",
+  "short_name": "Прыгунчик",
+  "lang": "ru",
+  "description": "Добрая 3D-игра для малышей без рекламы, покупок и регистрации. A kind 3D game for kids with no ads.",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#f6e6ff",
+  "theme_color": "#f6e6ff",
+  "icons": [{ "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }]
+}
